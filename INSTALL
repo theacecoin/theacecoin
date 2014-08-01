@@ -1,0 +1,9 @@
+Building AceCoin
+
+See doc/readme-qt.rst for instructions on building AceCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of AceCoin.
+
+See doc/build-*.txt for instructions on building AceCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of AceCoin.
